@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wno-ignored-attributes -Wno-ignored-attributes -O3 -DNDEBUG  -rdynamic CMakeFiles/cl2c.dir/src/tools/cl2c.cpp.o  -o cl2c 
